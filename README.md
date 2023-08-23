@@ -1,4 +1,6 @@
 # MyWork
-
- ##
- school data visualiztion(2) By Vite
+A part of my data visualization lesson assignments
+##
+updating for save
+##
+by Vite
